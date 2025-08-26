@@ -1,5 +1,5 @@
-91.134.85.13 growtopia1.com
-91.134.85.13 growtopia2.com
-91.134.85.13 www.growtopia1.com
-91.134.85.13 www.growtopia2.com
-91.134.85.13 mpangpp.com
+46.105.62.153 growtopia1.com
+46.105.62.153 growtopia2.com
+46.105.62.153 www.growtopia1.com
+46.105.62.153 www.growtopia2.com
+46.105.62.153 mpangpp.com
